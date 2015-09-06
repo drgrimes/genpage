@@ -1,0 +1,2 @@
+# genpage
+first generated page
